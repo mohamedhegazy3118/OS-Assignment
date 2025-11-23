@@ -1,4 +1,4 @@
-# Lab 5: Process Management
+Process Management
 
 ## Description
 
@@ -56,3 +56,4 @@ gcc simple_program.c -o simple_program
 ## License
 
 [MIT](LICENSE)
+
